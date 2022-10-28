@@ -2,7 +2,7 @@
 
 This is a small app presenting current temperature in Stockholm, Sweden. App also allows to check the forecast for next coming 7 days (including the present one).
 
-![](src/App.jpeg)
+![](src/screenshot.jpeg)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -35,3 +35,4 @@ Javascript, HTML, React, Visual Studio Code, API.
 
 
 [def]: src/app.jpeg
+[def2]: src/App.jpeg
