@@ -62,7 +62,7 @@ function App() {
         </div>
         <p>Temperature right now: {current} °C</p>
       </form>
-      <footer>App runs best on Googcle Chrome or Edge.</footer>
+      <footer>App runs best on Google Chrome or Edge.</footer>
     </div> 
   );
 }
