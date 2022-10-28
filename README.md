@@ -30,12 +30,3 @@ Open-Meteo API's are offered under [Attribution-NonCommercial 4.0 International 
 
 ## Techonologies used
 Javascript, HTML, React, Visual Studio Code, API.
-
-
-
-
-[def]: src/app.jpeg
-<<<<<<< HEAD
-[def2]: src/App.jpeg
-=======
->>>>>>> ba96daa6f1cbd470c436040fe35ee6ea51b091cf
