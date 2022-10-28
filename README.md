@@ -1,4 +1,4 @@
-# Small react weather app
+# Simple Weather App with React and free API
 
 This is a small app presenting current temperature in Stockholm, Sweden. App also allows to check the forecast for next coming 7 days (including the present one).
 
@@ -35,4 +35,7 @@ Javascript, HTML, React, Visual Studio Code, API.
 
 
 [def]: src/app.jpeg
+<<<<<<< HEAD
 [def2]: src/App.jpeg
+=======
+>>>>>>> ba96daa6f1cbd470c436040fe35ee6ea51b091cf
